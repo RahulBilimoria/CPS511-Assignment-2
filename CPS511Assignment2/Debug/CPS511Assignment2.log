@@ -1,0 +1,9 @@
+﻿  QuadMesh.cpp
+  main.cpp
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment2\cps511assignment2\main.cpp(47): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment2\cps511assignment2\main.cpp(52): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment2\cps511assignment2\main.cpp(53): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment2\cps511assignment2\main.cpp(54): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Generating Code...
+  CPS511Assignment2.vcxproj -> C:\Users\Rahul\Documents\Schoolwork\Ryerson\Sem 7\CPS 511\Assignments\CPS511Assignment2\Debug\CPS511Assignment2.exe
+  CPS511Assignment2.vcxproj -> C:\Users\Rahul\Documents\Schoolwork\Ryerson\Sem 7\CPS 511\Assignments\CPS511Assignment2\Debug\CPS511Assignment2.pdb (Full PDB)
